@@ -1,0 +1,25 @@
+#EXTM3U
+ 
+# Globo Minas (quando disponível via repositórios públicos)
+#EXTINF:-1 group-title="MG",Globo Minas
+https://globo-mg.cdnlive.com.br/playlist.m3u8
+ 
+# Record Minas (alternativa nacional quando regional não disponível)
+#EXTINF:-1 group-title="MG",Record TV
+https://recordtv-live.akamaized.net/hls/live.m3u8
+ 
+#SBT Minas (normalmente via afiliada Alterosa)
+#EXTINF:-1 group-title="MG",SBT
+https://sbt-live.akamaized.net/hls/live.m3u8
+ 
+# Banda Minas
+#EXTINF:-1 group-title="MG",Band
+https://evpp.mm.uol.com.br/band/band_360p/playlist.m3u8
+ 
+#RedeTV Minas (sinal nacional)
+#EXTINF:-1 group-title="MG",RedeTV!
+https://redefamilia-rede-tv.akamaized.net/hls/live.m3u8
+ 
+# Rede Minas (extra opcional local)
+#EXTINF:-1 group-title="MG",Rede Minas
+https://cdn-1.nxplay.com.br/REDEMINAS/tracks-v1a1/mono.m3u8
